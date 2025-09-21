@@ -6,6 +6,11 @@
 # Purpose       : Practise                                                          #
 # Version       : V.02                                                              #
 # ###################################################################################
+# COMMIT 1
+# COMMIT 2
+# COMMIT 3
+
+
 echo "===== $(date) ====="
 echo "Checking AWS S3 buckets..."
 
