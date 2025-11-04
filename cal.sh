@@ -6,3 +6,6 @@ x=a+b
 #
 #substarction of two numbers
 Y=A+B
+#
+#multiflipication of two numbers
+z=z*y
