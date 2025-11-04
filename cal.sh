@@ -9,3 +9,6 @@ Y=A+B
 #
 #multiflipication of two numbers
 z=z*y
+
+## checking the git add, commit, push & merge to feature branch
+#
